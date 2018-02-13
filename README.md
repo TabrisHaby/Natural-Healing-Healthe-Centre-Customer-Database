@@ -1,6 +1,6 @@
 # Natural Healing Healthe Centre Customer Database
 
-  # Version 1 : 2017-02-08
+  ## Version 1 : 2017-02-08
 
   # Version 2 : 2018-01-16
 
