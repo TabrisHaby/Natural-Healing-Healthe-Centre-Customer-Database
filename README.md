@@ -2,7 +2,7 @@
 
   ## Version 1 : 2017-02-08
 
-  # Version 2 : 2018-01-16
+  ## Version 2 : 2018-01-16
 
       # Add new table Duration : record each treatment durtion for different customers
 
@@ -12,7 +12,7 @@
 
       # correct Sunlife company contact number in Insurance table
 
-  # Working Environment
+  ## Working Environment
 
     # OS : Windows 10 v1702 64 bit + Ubuntu 16.04.3 LTS
 
@@ -27,7 +27,7 @@
 
 # Database Details
 
-  # About data
+  ## About data
 
       # Data from two ways :
 
@@ -40,7 +40,7 @@
           # Around 5000 rows and 18 variables in total
 
 
-  # There are 11 tables in total, which are :
+  ## There are 11 tables in total, which are :
 
         # Customer : Customer general information, like name,gender,gender,phone,email,etc
 
